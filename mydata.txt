@@ -1,0 +1,26 @@
+the amount os all products
+the amount os all products
+the amount os all products
+the amount os all products
+10 300
+20 400
+30 500
+40 600
+50 700
+the amount that you need to pay is:
+85000
+the amount os all products
+10 300
+20 400
+30 500
+40 600
+50 700
+the amount that you need to pay is:
+85000
+the amount os all products
+12 300
+23 700
+36 500
+63 600
+the amount that you need to pay is:
+84700
